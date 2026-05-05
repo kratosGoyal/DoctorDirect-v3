@@ -1,3 +1,9 @@
+Team members :
+Harsh Goyal (2210991618)
+Harsh Sharma (2210991624)
+Anubhav Garg (2210991314)
+Anirudh Jamwal (2210991267)
+
 # 🩺 DoctorDirect-v3
 
 A modern healthcare platform designed to connect patients with doctors seamlessly. This project aims to simplify appointment booking, improve accessibility, and enhance the overall healthcare experience.
